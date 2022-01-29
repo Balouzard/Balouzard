@@ -1,4 +1,4 @@
-👋 Hi, I’m @Balouzard
+<p align="centrer">👋 Hi, I’m @Balouzard</p>
 👀 I’m interested in Machine Learning & Data Analysis
 🌱 I’m currently learning Python & Tensorflow
 
